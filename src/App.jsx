@@ -381,7 +381,7 @@ export default function App() {
                   參訓資格
                 </h4>
                 <ul className="space-y-4 text-slate-700 font-medium">
-                  <li className="flex items-start"><span className="text-orange-500 mr-3 text-xl leading-tight">•</span> 年滿15歲(含)以上，29歲以下。</li>
+                  <li className="flex items-start"><span className="text-orange-500 mr-3 text-xl leading-tight">•</span> 年滿15歲(含)以上，29歲以下 一般民眾也可以報名</li>
                   <li className="flex items-start"><span className="text-orange-500 mr-3 text-xl leading-tight">•</span> 具工作意願且工作技能不足之待業青年。</li>
                   <li className="flex items-start"><span className="text-orange-500 mr-3 text-xl leading-tight">•</span> 結訓後必須有就業意願 (有升學計畫者請勿報名)。</li>
                   <li className="flex items-start"><span className="text-orange-500 mr-3 text-xl leading-tight">•</span> 如招生未足額，得開放最多30％名額與一般待業民眾參訓。</li>
